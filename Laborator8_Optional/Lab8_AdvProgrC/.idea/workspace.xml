@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af131d8b-96cd-4405-bf20-8aa897d3b952" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJ7KHDOmFIDq1Ud4ObVCPKvHVf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/MySQL/MySQL Server 8.0/include/mysql/components/services" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab8_AdvProgrC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af131d8b-96cd-4405-bf20-8aa897d3b952" name="Default Changelist" comment="" />
+      <created>1586441776916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586441776916</updated>
+      <workItem from="1586441779492" duration="2233000" />
+      <workItem from="1586444517337" duration="24000" />
+      <workItem from="1586514810824" duration="6410000" />
+      <workItem from="1586524244652" duration="4051000" />
+      <workItem from="1586888835585" duration="402000" />
+      <workItem from="1587025314132" duration="927000" />
+      <workItem from="1587028076522" duration="3000" />
+      <workItem from="1587041886556" duration="708000" />
+      <workItem from="1587043036749" duration="1312000" />
+      <workItem from="1587112622180" duration="9899000" />
+      <workItem from="1587136306552" duration="9793000" />
+      <workItem from="1587152566478" duration="4000" />
+      <workItem from="1587218189524" duration="5039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="7" key="#Project_Structure" timestamp="1587140998710">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="7" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1587140998710" />
+    <state x="233" y="7" key="#SQL_Dialects" timestamp="1586515615227">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="7" key="#SQL_Dialects/0.0.1280.689@0.0.1280.689" timestamp="1586515615227" />
+    <state x="96" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586441968766">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1586441968766" />
+    <state x="446" y="52" key="#com.intellij.ide.util.MemberChooser" timestamp="1587221214385">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1587221214385" />
+    <state x="274" y="37" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587140293431">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="274" y="37" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.689@0.0.1280.689" timestamp="1587140293431" />
+    <state x="348" y="89" key="FileChooserDialogImpl" timestamp="1587140313547">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="348" y="89" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1587140313547" />
+    <state width="1237" height="139" key="GridCell.Tab.0.bottom" timestamp="1587223212138">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="139" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1587223212138" />
+    <state width="1237" height="139" key="GridCell.Tab.0.center" timestamp="1587223212138">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="139" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1587223212138" />
+    <state width="1237" height="139" key="GridCell.Tab.0.left" timestamp="1587223212137">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="139" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1587223212137" />
+    <state width="1237" height="139" key="GridCell.Tab.0.right" timestamp="1587223212138">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="139" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1587223212138" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1587115579874">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1587115579874" />
+    <state x="349" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1587218194885">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="349" y="173" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1587218194884" />
+    <state x="375" y="246" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587140990739">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="375" y="246" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.689@0.0.1280.689" timestamp="1587140990739" />
+    <state x="371" y="118" key="extract.method.dialog" timestamp="1586517611694">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="118" key="extract.method.dialog/0.0.1280.689@0.0.1280.689" timestamp="1586517611694" />
+    <state x="91" y="0" key="new project wizard" timestamp="1587137015341">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1587137015341" />
+    <state x="297" y="-1" width="672" height="676" key="search.everywhere.popup" timestamp="1586515700299">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="-1" width="672" height="676" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1586515700299" />
+  </component>
+</project>

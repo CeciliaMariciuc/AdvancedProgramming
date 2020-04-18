@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="com.arakelian:faker:3.6.0" type="repository">
+    <properties maven-id="com.arakelian:faker:3.6.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/arakelian/faker/3.6.0/faker-3.6.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/immutables/value-annotations/2.8.3/value-annotations-2.8.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/arakelian/more-commons/2.4.0/more-commons-2.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/arakelian/key-value-store/2.5.0/key-value-store-2.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/arakelian/jackson-utils/3.2.0/jackson-utils-3.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-parameter-names/2.10.3/jackson-module-parameter-names-2.10.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.10.3/jackson-datatype-jdk8-2.10.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.29/slf4j-api-1.7.29.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
